@@ -55,6 +55,7 @@ body {
 .info {
   width: 50%;
   padding: 3rem;
+  margin-left: 1rem;
 }
 
 .info p:first-of-type {
