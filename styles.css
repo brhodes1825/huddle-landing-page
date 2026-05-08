@@ -38,11 +38,6 @@ body {
   justify-content: flex-start;
 }
 
-.brand-logo img {
-  width: 4rem;
-  height: 2rem;
-}
-
 .main-section {
   display: flex;
 }
