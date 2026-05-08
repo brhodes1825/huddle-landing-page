@@ -34,7 +34,7 @@ body {
 }
 
 .brand-logo {
-  width: 55rem;
+  width: 50rem;
   display: flex;
   justify-content: flex-start;
   padding: 2rem;
@@ -44,6 +44,14 @@ body {
 .main-section {
   display: flex;
   padding: 2rem;
+}
+
+.mockup {
+  width: 50%;
+}
+
+.info {
+  width: 50%;
 }
 
 .info p:first-of-type {
