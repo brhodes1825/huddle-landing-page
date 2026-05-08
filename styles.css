@@ -120,12 +120,13 @@ body {
     line-height: 1.3rem;
     text-align: center;
     margin-right: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
   }
 
   .info a {
     margin: 1rem 2rem;
     width: 70%;
+    justify-content: center;
 }
 
   .socials-logos {
