@@ -24,6 +24,7 @@ body {
   align-items: center;
   justify-content: center;
   background-image: url("bg-desktop.svg");
+  background-color: var(--purple700);
   background-repeat: no-repeat;
 }
 
