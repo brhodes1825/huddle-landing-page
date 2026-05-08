@@ -31,10 +31,11 @@ body {
 .container {
   display: flex;
   flex-direction: column;
+  margin: 2rem;
 }
 
 .brand-logo {
-  width: 50rem;
+  width: 55rem;
   display: flex;
   justify-content: flex-start;
   padding: 2rem;
@@ -44,6 +45,7 @@ body {
 .main-section {
   display: flex;
   padding: 2rem;
+  gap: 1rem;
 }
 
 .mockup {
@@ -52,6 +54,7 @@ body {
 
 .info {
   width: 50%;
+  padding: 3rem;
 }
 
 .info p:first-of-type {
@@ -69,7 +72,7 @@ body {
   font-family: "Poppins";
   font-weight: 400;
   color: white;
-  margin-right: 4rem;
+  margin-right: 2rem;
   margin-bottom: 1rem;
 }
 
