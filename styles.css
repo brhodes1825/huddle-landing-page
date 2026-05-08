@@ -96,6 +96,11 @@ body {
     width: 22rem;
   }
 
+  .brand-logo img {
+    width: 2.5rem;
+    height: 1rem;
+  }
+
   .main-section {
     flex-direction: column;
   }
