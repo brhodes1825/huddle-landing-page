@@ -124,6 +124,10 @@ body {
     width: 20rem;
   }
 
+  .info {
+    padding: 0;
+  }
+
   .info p:first-of-type {
     text-align: center;
     margin-right: 0;
