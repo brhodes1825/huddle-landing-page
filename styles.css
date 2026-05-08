@@ -62,25 +62,26 @@ body {
   font-family: "Poppins";
   font-weight: 600;
   color: white;
-  margin-right: 4rem;
+  margin-right: 6rem;
   margin-bottom: 1rem;
 }
 
 .info p:nth-of-type(2) {
   font-size: .938rem;
-  line-height: 1.3rem;
+  line-height: 1.5rem;
   font-family: "Poppins";
   font-weight: 400;
   color: white;
-  margin-right: 2rem;
+  margin-right: 6rem;
   margin-bottom: 1rem;
 }
 
-.info a {
+.btn {
   font-family: "Open Sans";
   padding: 1rem 2rem;
   color: var(--purple700);
   margin-right: 5rem;
+  margin-top: 1rem;
   text-decoration: none;
   background-color: white;
   border-radius: 1rem;
@@ -142,14 +143,14 @@ body {
     margin-bottom: 2rem;
   }
 
-  .info a {
+  .btn {
     margin: 1rem 2rem;
     width: 70%;
     justify-content: center;
-}
+  }
 
   .socials-logos {
-    align-items: center;
+    justify-content: center;
   }
 
   
