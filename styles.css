@@ -131,13 +131,13 @@ body {
 
   .info {
     padding: 0;
-    justify-content: center;
   }
 
   .info p:first-of-type {
     text-align: center;
     margin-right: 0;
     margin-bottom: 1rem;
+    justify-content: center;
   }
 
   .info p:nth-of-type(2) {
@@ -146,6 +146,7 @@ body {
     text-align: center;
     margin-right: 0;
     margin-bottom: 2rem;
+    justify-content: center;
   }
 
   .btn {
@@ -154,9 +155,9 @@ body {
     justify-content: center;
   }
 
-/*  .socials-logos {
+  .socials-logos {
     justify-content: center;
-  }   */
+  } 
 
   
 }
