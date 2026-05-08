@@ -41,3 +41,13 @@ body {
 .main-section {
   display: flex;
 }
+
+.socials-logos {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.socials-logos img {
+  width: 1.5rem;
+  height: 1.5rem;
+}
