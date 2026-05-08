@@ -38,6 +38,7 @@ body {
   display: flex;
   justify-content: flex-start;
   padding: 1rem;
+  margin-bottom: 2rem;
 }
 
 .main-section {
