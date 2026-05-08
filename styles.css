@@ -118,6 +118,7 @@ body {
 
   .main-section {
     flex-direction: column;
+    width: 100%;
   }
 
   .mockup {
