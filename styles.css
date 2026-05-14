@@ -130,6 +130,7 @@ body {
 
   .mockup {
     margin-bottom: 1rem;
+    width: 100%;
   }
 
   .mockup img {
@@ -138,13 +139,14 @@ body {
 
   .info {
     padding: 0;
+    width: 100%;
   }
 
   .info p:first-of-type {
     text-align: center;
     margin-right: 0;
     margin-bottom: 1rem;
-    justify-content: center;
+/*    justify-content: center;  */
   }
 
   .info p:nth-of-type(2) {
@@ -153,13 +155,13 @@ body {
     text-align: center;
     margin-right: 0;
     margin-bottom: 2rem;
-    justify-content: center;
+/*    justify-content: center;  */
   }
 
   .btn {
     margin: 1rem 2rem;
     width: 70%;
-    justify-content: center;
+/*    justify-content: center; */
   }
 
   .socials-logos {
