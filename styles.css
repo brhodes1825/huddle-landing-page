@@ -25,6 +25,7 @@ body {
   justify-content: center;
   background-image: url("bg-desktop.svg");
   background-color: var(--purple700);
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
