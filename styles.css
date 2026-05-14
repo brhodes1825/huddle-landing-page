@@ -48,17 +48,17 @@ body {
   width: 50rem;
   display: flex;
   padding: 2rem;
-  gap: 1rem;
+  gap: 1rem; 
   border: 1px solid black;
 }
 
 .mockup {
-  min-width: 50%;
+  width: 22.5rem;
   border: 1px solid black;
 }
 
 .info {
-  min-width: 50%;
+  width: 22.5rem;
   padding: 3rem;
   margin-left: 1rem;
   border: 1px solid black;
