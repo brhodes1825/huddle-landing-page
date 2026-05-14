@@ -126,6 +126,7 @@ body {
   .main-section {
     flex-direction: column;
     width: 100%;
+    justify-content: center;
   }
 
   .mockup {
@@ -139,6 +140,7 @@ body {
 
   .info {
     padding: 0;
+    margin: auto auto;
     width: 100%;
   }
 
