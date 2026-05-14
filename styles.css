@@ -33,6 +33,7 @@ body {
   display: flex;
   flex-direction: column;
   margin: 2rem;
+  border: 1px solid black;
 }
 
 .brand-logo {
@@ -47,16 +48,19 @@ body {
   display: flex;
   padding: 2rem;
   gap: 1rem;
+  border: 1px solid black;
 }
 
 .mockup {
   width: 50%;
+  border: 1px solid black;
 }
 
 .info {
   width: 50%;
   padding: 3rem;
   margin-left: 1rem;
+  border: 1px solid black;
 }
 
 .info p:first-of-type {
@@ -88,19 +92,20 @@ body {
   margin-top: 1rem;
   text-decoration: none;
   background-color: white;
-  border-radius: 1rem;
+  border-radius: 2rem;
+  border: 1px solid black;
 }
 
 .socials-logos {
   display: flex;
   justify-content: flex-end;
   padding: 2rem;
+  border: 1px solid black;
 }
 
 .socials-logos img {
   width: 2rem;
   height: 2rem;
-  color: white;
 }
 
 @media only screen and (max-width: 1100px) {
