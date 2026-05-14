@@ -60,7 +60,7 @@ body {
 .info {
   width: 22.5rem;
   padding: 3rem;
-  margin-left: 1rem;
+/*  margin-left: 1rem; */
   border: 1px solid black;
 }
 
