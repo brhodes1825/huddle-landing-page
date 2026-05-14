@@ -86,6 +86,7 @@ body {
 }
 
 .btn {
+  display: block;
   font-family: "Open Sans";
   padding: .7rem 3rem;
   color: var(--purple700);
