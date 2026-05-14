@@ -45,6 +45,7 @@ body {
 }
 
 .main-section {
+  width: 50rem;
   display: flex;
   padding: 2rem;
   gap: 1rem;
